@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.navigationComponent.MainActivity">
+
+
+    <item android:id="@id/ordersFragment"
+            android:title="@string/action_orders" />
+
+    <item android:id="@id/referralsFragment"
+            android:title="@string/action_referrals" />
+
+    <item android:id="@id/recipesFragment"
+            android:title="@string/action_recipe" />
+
+    <item android:id="@id/settingsFragment"
+          android:title="@string/action_settings"/>
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_orders">Orders</string>
+    <string name="action_referrals">Referrals</string>
+    <string name="action_recipe">Recipes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
